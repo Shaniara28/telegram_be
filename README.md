@@ -135,7 +135,7 @@ CLOUDINARY_API_SECRET
 
 ## Endpoint List
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/26334344/2s93XyUPKH)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/23097943/2s93Y3whAY)
 
 <!-- CONTRIBUTING -->
 
